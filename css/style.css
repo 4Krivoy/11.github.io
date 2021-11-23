@@ -1,0 +1,15 @@
+.verh {display: grid; grid-template-columns: 4fr 1px 3fr 1px 2fr; margin-bottom: 1%;}
+img {width: 100%; height: 100%;}
+.centr {display: grid; grid-template-columns: 3fr 1px 3fr 1% 2fr; margin-bottom: 1%;}
+.niz {display: grid; grid-template-columns: 2fr 1px 4fr 1px 1fr 1px 5fr;}
+.container {width: 600px; height: 400px; margin-left: auto; margin-right: auto;}
+.krol2 {background-image: url(../img/krol2.jpg);}
+.krol3 {background-image: url(../img/krol3.jpg);}
+.krol4 {background-image: url(../img/krol4.jpg);}
+.krol5 {background-image: url(../img/krol5.jfif);}
+.krol6 {background-image: url(../img/krol6.jpg);}
+.krol7 {background-image: url(../img/krol7.jpg);}
+.krol8 {background-image: url(../img/krol8.jpg);}
+.focus {background-position: center; background-repeat: no-repeat; background-size: cover;}
+
+
